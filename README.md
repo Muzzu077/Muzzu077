@@ -18,7 +18,9 @@
 <p>
 <a href="https://www.linkedin.com/in/gadwal-mohammad-muzammil/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
 <a href="https://github.com/Muzzu077"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
-<a href="mailto:muzzammilmuzzu860@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+</tr>
+
+<!-- ROW 3 -->
 <a href="https://www.startupcompass.app/"><img src="https://img.shields.io/badge/Startup_Compass-6366F1?style=for-the-badge&logo=rocket&logoColor=white" alt="Startup Compass"/></a>&nbsp;
 <a href="https://trustflow.welocalhost.com/"><img src="https://img.shields.io/badge/TrustFlow-0F172A?style=for-the-badge&logo=shield&logoColor=38bdf8" alt="TrustFlow"/></a>
 </p>
@@ -52,12 +54,6 @@ current_focus:
   - High-performance full-stack SaaS products
   - SOC operations & incident response
 
-building:
-  - Startup Compass — AI-powered startup validation with multi-agent pipelines
-  - TrustFlow / ThreatPulse — Real-time cyber threat intelligence engine
-  - CareFlow — Healthcare management platform (Web + Mobile)
-  - LingualMind AI — AI-powered language learning system
-
 fields_of_interest:
   - Autonomous AI Agents & Multi-Agent Systems
   - Machine Learning & Deep Learning
@@ -85,7 +81,6 @@ fun_fact: "I co-organized HACKFINITY — the world's first 24-hour prompt-exclus
 | **🚩** | **Top 10 Finalist** | HackQuest 2K26 National Cybersecurity CTF |
 | **🛡️** | **Top 25 Finalist** | Yukthi CTF 2.0 (Tamil Nadu Police & Saveetha University) |
 | **🌟** | **Trailblazer Award** | Co-organized HACKFINITY (World's 1st Agentic AI Hackathon) |
-| **📝** | **Paper Presentation Award** | WISSENAIRE 3.0 National Technical Symposium |
 
 </div>
 
@@ -276,10 +271,6 @@ fun_fact: "I co-organized HACKFINITY — the world's first 24-hour prompt-exclus
 </p>
 
 </td>
-</tr>
-
-<!-- ROW 3 -->
-<tr>
 <td width="50%" valign="top">
 
 <h3 align="center">
@@ -302,7 +293,7 @@ fun_fact: "I co-organized HACKFINITY — the world's first 24-hour prompt-exclus
 </td>
 </tr>
 
-<!-- ROW 4 -->
+<!-- ROW 3 -->
 <tr>
 <td width="50%" valign="top">
 
@@ -324,10 +315,6 @@ fun_fact: "I co-organized HACKFINITY — the world's first 24-hour prompt-exclus
 </p>
 
 </td>
-</tr>
-
-<!-- ROW 5 -->
-<tr>
 <td width="50%" valign="top">
 
 <h3 align="center">
