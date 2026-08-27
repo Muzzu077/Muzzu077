@@ -276,50 +276,10 @@ fun_fact: "I co-organized HACKFINITY — the world's first 24-hour prompt-exclus
 </p>
 
 </td>
-<td width="50%" valign="top">
-
-<h3 align="center">
-<img src="https://img.shields.io/badge/🤖-8B5CF6?style=flat-square&logoColor=white" height="20"/>
-&nbsp;TalentPulse
-</h3>
-
-<div align="center">
-<a href="https://github.com/Muzzu077/TalentPulse"><img src="https://img.shields.io/badge/CODE-181717?style=flat-square&logo=github&logoColor=white" /></a>
-</div>
-<br/>
-<p align="center"><em>AI-powered talent management and HR analytics platform for intelligent recruitment & workforce optimization</em></p>
-<p align="center">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square" />
-<img src="https://img.shields.io/badge/AI-412991?style=flat-square" />
-<img src="https://img.shields.io/badge/Analytics-8B5CF6?style=flat-square" />
-<img src="https://img.shields.io/badge/HR_Tech-000?style=flat-square" />
-</p>
-
-</td>
 </tr>
 
 <!-- ROW 3 -->
 <tr>
-<td width="50%" valign="top">
-
-<h3 align="center">
-<img src="https://img.shields.io/badge/📱-F59E0B?style=flat-square&logoColor=white" height="20"/>
-&nbsp;Voice Call Agent
-</h3>
-
-<div align="center">
-<a href="https://github.com/Muzzu077/Voice-call-agent"><img src="https://img.shields.io/badge/CODE-181717?style=flat-square&logo=github&logoColor=white" /></a>
-</div>
-<br/>
-<p align="center"><em>AI-powered voice call agent with real-time speech processing, natural language understanding, and automated call handling</em></p>
-<p align="center">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square" />
-<img src="https://img.shields.io/badge/Voice_AI-F59E0B?style=flat-square" />
-<img src="https://img.shields.io/badge/NLP-EE4C2C?style=flat-square" />
-<img src="https://img.shields.io/badge/Real_Time-000?style=flat-square" />
-</p>
-
-</td>
 <td width="50%" valign="top">
 
 <h3 align="center">
@@ -364,50 +324,10 @@ fun_fact: "I co-organized HACKFINITY — the world's first 24-hour prompt-exclus
 </p>
 
 </td>
-<td width="50%" valign="top">
-
-<h3 align="center">
-<img src="https://img.shields.io/badge/🧠-3B82F6?style=flat-square&logoColor=white" height="20"/>
-&nbsp;LingualMind AI
-</h3>
-
-<div align="center">
-<a href="https://github.com/Muzzu077/LingualMind-AI"><img src="https://img.shields.io/badge/CODE-181717?style=flat-square&logo=github&logoColor=white" /></a>
-</div>
-<br/>
-<p align="center"><em>AI-driven language learning system with intelligent tutoring, adaptive assessments, and multi-language support</em></p>
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" />
-<img src="https://img.shields.io/badge/AI-412991?style=flat-square" />
-<img src="https://img.shields.io/badge/NLP-EE4C2C?style=flat-square" />
-<img src="https://img.shields.io/badge/EdTech-22C55E?style=flat-square" />
-</p>
-
-</td>
 </tr>
 
 <!-- ROW 5 -->
 <tr>
-<td width="50%" valign="top">
-
-<h3 align="center">
-<img src="https://img.shields.io/badge/🛒-F97316?style=flat-square&logoColor=white" height="20"/>
-&nbsp;AyeshaStore
-</h3>
-
-<div align="center">
-<a href="https://github.com/Muzzu077/AyeshaStore"><img src="https://img.shields.io/badge/CODE-181717?style=flat-square&logo=github&logoColor=white" /></a>
-</div>
-<br/>
-<p align="center"><em>Modern responsive e-commerce web app for electrical, plumbing & spare parts supplies with full shopping cart & checkout</em></p>
-<p align="center">
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square" />
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square" />
-<img src="https://img.shields.io/badge/E--Commerce-F97316?style=flat-square" />
-</p>
-
-</td>
 <td width="50%" valign="top">
 
 <h3 align="center">
