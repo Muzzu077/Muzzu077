@@ -11,7 +11,7 @@
 <!-- TYPING ANIMATION -->
 <br/>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=95&lines=%E2%9A%A1+Architecting+Autonomous+AI+Agents+%26+Multi-Agent+Systems;%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+Researcher+%7C+Threat+Telemetry+%7C+CTF+Player;%F0%9F%9A%80+Engineering+Full-Stack+SaaS+%26+Visual+Digital+Twins;%F0%9F%8E%93+B.Tech+AI+%26+Data+Science+%40+SIMATS+Engineering+Chennai" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=140&lines=%E2%9A%A1+Architecting+Autonomous+AI+Agents+%26+Multi-Agent+Systems;%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+Researcher+%7C+Threat+Telemetry+%7C+CTF+Player;%F0%9F%9A%80+Engineering+Full-Stack+SaaS+%26+Visual+Digital+Twins;%F0%9F%8E%93+B.Tech+AI+%26+Data+Science+%40+SIMATS+Engineering+Chennai" alt="Typing SVG" />
 </a>
 
 <br/><br/>
