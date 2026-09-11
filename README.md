@@ -83,7 +83,7 @@
   SHELL     : zsh 5.9 (custom cybersecurity & AI pipelines)
   UPTIME    : 24/7 Builder, CTF Player & Open-Source Contributor
   PRIMARY   : Autonomous Multi-Agent Systems • Threat Telemetry • Full-Stack SaaS
-  INITIATIVE: Co-Organized HACKFINITY (World's 1st 24h Prompt-Exclusive Agentic Hackathon)
+  INITIATIVE: Co-Organized HACKFINITY (24h Prompt-Exclusive Agentic Hackathon)
   STATUS    : Actively Shipping High-Impact Intelligence & Defense Systems
 ```
 
