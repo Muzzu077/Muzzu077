@@ -400,9 +400,9 @@
 
 <!-- STATS CARDS -->
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muzzu077&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&ring_color=38bdf8" alt="GitHub Stats" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Muzzu077&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&ring_color=38bdf8" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzzu077&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Muzzu077&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 </p>
 
 <!-- STREAK STATS (NEW DEMOLAB ENDPOINT) -->
